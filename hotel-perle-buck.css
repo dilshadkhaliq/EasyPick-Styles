@@ -4,6 +4,13 @@
     --color-fg-default: #5B522C;
     --color-fg-primary: #314550;
   	--color-btn-secondary-fg: #5B522C;
+    --day-width: 2.25rem;
+    --day-height: 2rem;
+    
+    --color-bg-inrange: #aebcc4;
+    --color-bg-tooltip: #fff;
+    --color-fg-tooltip: #5B522C;
+
 }
 
 .easepick-wrapper .container{
