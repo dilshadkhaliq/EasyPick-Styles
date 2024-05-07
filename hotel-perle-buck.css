@@ -13,7 +13,7 @@
 
 }
 
-.easepick-wrapper .container{
+.container.lock-plugin.range-plugin{
     border-radius: 0px;
     font-family: Charlevoixpro, sans-serif;
 }
