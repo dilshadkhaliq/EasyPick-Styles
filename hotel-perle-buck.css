@@ -5,3 +5,10 @@
     --color-fg-primary: #314550;
   	--color-btn-secondary-fg: #5B522C;
 }
+
+.easepick-wrapper .container{
+    border-radius: 0px;
+}
+.calendar>.days-grid>.day {
+    border-radius: 0px !important;
+}
