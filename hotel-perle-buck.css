@@ -15,6 +15,7 @@
 
 .easepick-wrapper .container{
     border-radius: 0px;
+    font-family: Charlevoixpro, sans-serif;
 }
 .calendar>.days-grid>.day {
     border-radius: 0px !important;
