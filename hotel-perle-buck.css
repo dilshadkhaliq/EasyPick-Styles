@@ -1,0 +1,7 @@
+:host {
+    --color-bg-default: #FAFAFA;
+    --color-bg-secondary: #f9f9f9;
+    --color-fg-default: #5B522C;
+    --color-fg-primary: #314550;
+  	--color-btn-secondary-fg: #5B522C;
+}
