@@ -6,6 +6,7 @@
     --color-fg-secondary: #748194;
     --color-fg-selected: var(--base-color-brand--background);
     --color-fg-muted: var(--base-color-brand--burgundy);
+    --color-btn-secondary-fg: var(--base-color-brand--burgundy);
     
     --color-bg-inrange: #aebcc4;
     --color-bg-tooltip: #fff;
