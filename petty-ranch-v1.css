@@ -1,0 +1,22 @@
+:host {
+    --color-bg-default: var(--base-color-brand--background);
+    --color-bg-secondary: #f9f9f9;
+    --color-fg-default: var(--base-color-brand--burgundy);
+    --color-fg-primary: var(--base-color-brand--burgundy);
+    --color-fg-secondary: #748194;
+    --color-fg-selected: var(--base-color-brand--background);
+    --color-fg-muted: var(--base-color-brand--burgundy);
+    
+    --color-bg-inrange: #aebcc4;
+    --color-bg-tooltip: #fff;
+    --color-fg-tooltip: #5B522C;
+
+}
+
+.container{
+    border-radius: 0px;
+    font-family: Clarendon Light, Tahoma, sans-serif;
+}
+.calendar>.days-grid>.day {
+    border-radius: 0px !important;
+}
